@@ -1,6 +1,6 @@
 <?php
 
-echo 555; die();
+echo 666; die();
 
 /**
  * Magento
